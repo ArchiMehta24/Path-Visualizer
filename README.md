@@ -43,7 +43,7 @@ After visualization you can reposition start and end node as you want and add an
 
 https://github.com/user-attachments/assets/c95a3ad0-0763-4a7f-b925-dbda0294345b
 
-## Developers
+## Developer
 ### This Project was built by
 
 - Archi Mehta
